@@ -1,2 +1,4 @@
 # conflict-practice
-コンフリクト練習用
+
+# Feature
+this is a change made in feature2 branch.
